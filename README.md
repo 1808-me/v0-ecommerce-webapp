@@ -46,4 +46,4 @@ The goal was to quickly create, deploy, and customize a web app without managing
 
 ## Author
 **Sentle Thabana**  
-Aspiring Cloud Engineer
+Cloud Engineer
