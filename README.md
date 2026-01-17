@@ -29,7 +29,7 @@ The goal was to quickly create, deploy, and customize a web app without managing
 5. Changes were pushed to GitHub and auto-deployed
 
 ## Live Demo
-🔗 https://YOUR-PROJECT-NAME.vercel.app
+🔗https://v0-cloud-engineer-portfolio-teal.vercel.app/
 
 ## What I Learned
 - AI-assisted web development
